@@ -1,0 +1,26 @@
+[background arg="res://Backgrounds/Backstreet_Spring_Day.png" fade="0.0"]
+Mum: Dear
+Mum: Dear, It's time to wake up.
+[background arg="res://Backgrounds/Bedroom_Day.png" fade="0.0"]
+join Mum (Mum Smile) 2
+That woman there is my mum. She's one of a kind. Everyday she would take take care of me and my sister by feeding us, doing the laundry and tidying up the house.
+Very grateful to have a mum like her.
+Mum (Mum Smile eye closed): You're gonna be late for your first day of school. Breakfast is ready, get dressed and come downstairs.
+leave Mum
+[background arg="res://Backgrounds/Livingroom_Day.png" fade="0.0"]
+join Ayumi 1
+Ayumi (Ayumi Sleeping): Oh, morning
+join Ayumi 3
+join Mum 1
+Mum (Mum Smile): Can you believe it, this is the year you finally graduate. After that you will finally be an adult out in the real world.
+Mum (Mum Smile eye closed): I'm so proud of you...
+Ayumi (Ayumi Shocked): THAT'S RIGHT!!! One more year and you're free.
+Ayumi (Ayumi Smile): Have you thought about what you're going to do after you graduate?
+Haven't really thought about it yet. Hopefully I'll think of something soon. Don't wanna leave things last minute. 
+Mum (Mum Smile): Whatever it is, be sure it's something you enjoy doing everyday. Your future depends on it.
+leave Mum
+leave Ayumi
+[background arg="res://Backgrounds/Backstreet_Spring_Day.png" fade="0.0"]
+One more year huh? Time flies so quickly. Turning 18 this year, still single.
+Haven't even had my first kiss yet...
+Sometimes I just wish something strange just happen so that my life would'nt be so boring all the time.
