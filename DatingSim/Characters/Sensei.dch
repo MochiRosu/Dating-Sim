@@ -1,0 +1,149 @@
+{
+"@path": "res://addons/dialogic/Resources/character.gd",
+"@subpath": NodePath(""),
+"color": Color(1, 1, 1, 1),
+"custom_info": {
+"sound_mood_default": "",
+"sound_moods": {},
+"style": ""
+},
+"default_portrait": "Sensei Angry",
+"description": "",
+"display_name": "Sensei",
+"mirror": false,
+"nicknames": [""],
+"offset": Vector2(0, 0),
+"portraits": {
+"Sensei Angry": {
+"export_overrides": {
+"image": "\"res://Characters/Sensei Angry.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Sensei Angry Mouth": {
+"export_overrides": {
+"image": "\"res://Characters/Sensei Angry 2.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Sensei Annoyed": {
+"export_overrides": {
+"image": "\"res://Characters/Sensei Annoyed.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Sensei Curious": {
+"export_overrides": {
+"image": "\"res://Characters/Sensei Curious.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Sensei Delighted": {
+"export_overrides": {
+"image": "\"res://Characters/Sensei Delighted 2.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Sensei Delighted Eyes": {
+"export_overrides": {
+"image": "\"res://Characters/Sensei Delighted.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Sensei Idle": {
+"export_overrides": {
+"image": "\"res://Characters/Sensei Idle.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Sensei Sad": {
+"export_overrides": {
+"image": "\"res://Characters/Sensei Sad.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Sensei Shocked": {
+"export_overrides": {
+"image": "\"res://Characters/Sensei Shocked.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Sensei Smile": {
+"export_overrides": {
+"image": "\"res://Characters/Sensei Smile 2.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Sensei Smile Eyes": {
+"export_overrides": {
+"image": "\"res://Characters/Sensei Smile.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Sensei Smug": {
+"export_overrides": {
+"image": "\"res://Characters/Sensei Smug 2.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Sensei Smug Eyes": {
+"export_overrides": {
+"image": "\"res://Characters/Sensei Smug.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+}
+},
+"scale": 1.0
+}

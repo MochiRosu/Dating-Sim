@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1699006310
+::res://::1699078974
 icon.svg::CompressedTexture2D::6279457431433488348::1698896172::1698896177::1::::<><>::
 ::res://addons/::1698896224
 ::res://addons/dialogic/::1698896234
@@ -603,26 +603,50 @@ Train_Night.png::CompressedTexture2D::4449549906821645972::1698896451::169889871
 Train_Night_Rain.png::CompressedTexture2D::9183799412512629258::1698896451::1698898716::1::::<><>::
 Train_Transparent.png::CompressedTexture2D::2681107869955795092::1698896451::1698898717::1::::<><>::
 Train_Tunnel.png::CompressedTexture2D::5960710685506839041::1698896451::1698898716::1::::<><>::
-::res://Characters/::1698995563
+::res://Characters/::1699078974
 Ayumi Happy.png::CompressedTexture2D::3853719109703520511::1698926250::1698986785::1::::<><>::
 Ayumi Shocked.png::CompressedTexture2D::8154896530717426302::1698926250::1698986785::1::::<><>::
 Ayumi Sleepy.png::CompressedTexture2D::2885631636402423006::1698928108::1698986785::1::::<><>::
 Ayumi Smile.png::CompressedTexture2D::1504612127634640582::1698928206::1698986785::1::::<><>::
-Ayumi.dch::Resource::-1::1698985666::0::1::::<><>::
+Ayumi.dch::Resource::-1::1699006382::0::1::::<><>::
+Isuzu Angry mouth.png::CompressedTexture2D::8859132623144896104::1699078956::1699078976::1::::<><>::
+Isuzu Annoyed.png::CompressedTexture2D::7676481239786454244::1699078956::1699078976::1::::<><>::
+Isuzu Delighted.png::CompressedTexture2D::6285299820470566064::1699078956::1699078976::1::::<><>::
+Isuzu Idle.png::CompressedTexture2D::5059362503286774194::1699078956::1699078975::1::::<><>::
+Isuzu O.png::CompressedTexture2D::7588828388830942736::1699078956::1699078975::1::::<><>::
+Isuzu Sad.png::CompressedTexture2D::2966172634264095861::1699078956::1699078975::1::::<><>::
+Isuzu Shocked.png::CompressedTexture2D::5277251413590552793::1699078956::1699078975::1::::<><>::
+Isuzu Sleepy.png::CompressedTexture2D::1671512122705487146::1699078956::1699078975::1::::<><>::
+Isuzu Smile Closed.png::CompressedTexture2D::6908954613184541122::1699078956::1699078975::1::::<><>::
+Isuzu Smug.png::CompressedTexture2D::741416658700567607::1699078956::1699078975::1::::<><>::
+Isuzu.dch::Resource::-1::1699075034::0::1::::<><>::
 Mum Angry.png::CompressedTexture2D::5972554244423790899::1698898407::1698986786::1::::<><>::
 Mum Smile Closed eye.png::CompressedTexture2D::1275064716910127210::1698920654::1698986786::1::::<><>::
 Mum Smile.png::CompressedTexture2D::6373677809628223607::1698897808::1698986786::1::::<><>::
-Mum.dch::Resource::-1::1698995492::0::1::::<><>::
+Mum.dch::Resource::-1::1699006378::0::1::::<><>::
+Sensei Angry 2.png::CompressedTexture2D::832736511871540560::1699078956::1699078975::1::::<><>::
+Sensei Angry.png::CompressedTexture2D::2954973257045373223::1699078956::1699078975::1::::<><>::
+Sensei Annoyed.png::CompressedTexture2D::7064215631822625419::1699078956::1699078975::1::::<><>::
+Sensei Curious.png::CompressedTexture2D::7080502623659380354::1699078956::1699078975::1::::<><>::
+Sensei Delighted 2.png::CompressedTexture2D::4877364160631177075::1699078956::1699078975::1::::<><>::
+Sensei Delighted.png::CompressedTexture2D::6866617943792292778::1699078956::1699078975::1::::<><>::
+Sensei Idle.png::CompressedTexture2D::8526634877091966438::1699078956::1699078975::1::::<><>::
+Sensei Sad.png::CompressedTexture2D::5512926993108261545::1699078956::1699078975::1::::<><>::
+Sensei Shocked.png::CompressedTexture2D::1216900841969322508::1699078956::1699078975::1::::<><>::
+Sensei Smile 2.png::CompressedTexture2D::8183009946551640676::1699078956::1699078975::1::::<><>::
+Sensei Smile.png::CompressedTexture2D::2106799396875156497::1699078956::1699078975::1::::<><>::
+Sensei Smug 2.png::CompressedTexture2D::8670593850179567717::1699078956::1699078975::1::::<><>::
+Sensei Smug.png::CompressedTexture2D::8545572982806899465::1699078956::1699078975::1::::<><>::
 Toyota Idle.png::CompressedTexture2D::4783740321816582596::1698976144::1698986785::1::::<><>::
 Toyota Laugh.png::CompressedTexture2D::7688813649131679607::1698976144::1698986785::1::::<><>::
 Toyota Shocked.png::CompressedTexture2D::1150526145347604705::1698976144::1698986785::1::::<><>::
 Toyota Smile Teeth.png::CompressedTexture2D::4900315129601247263::1698976144::1698986785::1::::<><>::
-Toyota.dch::Resource::-1::1698986741::0::1::::<><>::
+Toyota.dch::Resource::-1::1699075034::0::1::::<><>::
 Toyota.png::CompressedTexture2D::7900020918385499872::1698974932::1698986785::1::::<><>::
-::res://Scenes/::1698997719
-MainGameScene.tscn::PackedScene::8995543454867500035::1698997719::0::1::::<><>::res://Scripts/StartTimeline.gd
+::res://Scenes/::1699022784
+MainGameScene.tscn::PackedScene::8995543454867500035::1699022784::0::1::::<><>::res://Scripts/StartTimeline.gd
 MorningHouseScene.tscn::PackedScene::1679118399032229840::1698996379::0::1::::<><>::
 ::res://Scripts/::1698997690
 StartTimeline.gd::GDScript::-1::1698997690::0::1::::<>Node2D<>::
-::res://Timeline/::1698995505
-WakingUpDialog.dtl::Resource::-1::1698972886::0::1::::<><>::
+::res://Timeline/::1699074921
+WakingUpDialog.dtl::Resource::-1::1699074921::0::1::::<><>::

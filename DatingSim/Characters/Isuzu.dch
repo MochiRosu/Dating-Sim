@@ -1,0 +1,119 @@
+{
+"@path": "res://addons/dialogic/Resources/character.gd",
+"@subpath": NodePath(""),
+"color": Color(0.145098, 0.972549, 0.196078, 1),
+"custom_info": {
+"sound_mood_default": "",
+"sound_moods": {},
+"style": ""
+},
+"default_portrait": "Isuzu Angry",
+"description": "",
+"display_name": "Isuzu",
+"mirror": false,
+"nicknames": [""],
+"offset": Vector2(0, 0),
+"portraits": {
+"Isuzu Angry": {
+"export_overrides": {
+"image": "\"res://Characters/Isuzu Angry mouth.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Isuzu Annoyed": {
+"export_overrides": {
+"image": "\"res://Characters/Isuzu Annoyed.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Isuzu Delighted": {
+"export_overrides": {
+"image": "\"res://Characters/Isuzu Delighted.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Isuzu Idle": {
+"export_overrides": {
+"image": "\"res://Characters/Isuzu Idle.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Isuzu O": {
+"export_overrides": {
+"image": "\"res://Characters/Isuzu O.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Isuzu Sad": {
+"export_overrides": {
+"image": "\"res://Characters/Isuzu Sad.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Isuzu Shocked": {
+"export_overrides": {
+"image": "\"res://Characters/Isuzu Shocked.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Isuzu Sleepy": {
+"export_overrides": {
+"image": "\"res://Characters/Isuzu Sleepy.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Isuzu Smile Closed": {
+"export_overrides": {
+"image": "\"res://Characters/Isuzu Smile Closed.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Isuzu Smug": {
+"export_overrides": {
+"image": "\"res://Characters/Isuzu Smug.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+}
+},
+"scale": 1.0
+}
