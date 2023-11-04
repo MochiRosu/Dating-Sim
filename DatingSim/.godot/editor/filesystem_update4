@@ -1,2 +1,5 @@
 res://Scenes/MainGameScene.tscn
-res://Scripts/StartTimeline.gd
+res://Characters/Mum.dch
+res://Characters/Ayumi.dch
+res://Characters/Toyota.dch
+res://Timeline/WakingUpDialog.dtl

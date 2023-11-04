@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1698996984
+::res://::1699006310
 icon.svg::CompressedTexture2D::6279457431433488348::1698896172::1698896177::1::::<><>::
 ::res://addons/::1698896224
 ::res://addons/dialogic/::1698896234
@@ -619,10 +619,10 @@ Toyota Shocked.png::CompressedTexture2D::1150526145347604705::1698976144::169898
 Toyota Smile Teeth.png::CompressedTexture2D::4900315129601247263::1698976144::1698986785::1::::<><>::
 Toyota.dch::Resource::-1::1698986741::0::1::::<><>::
 Toyota.png::CompressedTexture2D::7900020918385499872::1698974932::1698986785::1::::<><>::
-::res://Scenes/::1698996402
-MainGameScene.tscn::PackedScene::8995543454867500035::1698996402::0::1::::<><>::
+::res://Scenes/::1698997719
+MainGameScene.tscn::PackedScene::8995543454867500035::1698997719::0::1::::<><>::res://Scripts/StartTimeline.gd
 MorningHouseScene.tscn::PackedScene::1679118399032229840::1698996379::0::1::::<><>::
-::res://Scripts/::1698996098
-StartTimeline.gd::GDScript::-1::1698996098::0::1::::<>Node2D<>::
+::res://Scripts/::1698997690
+StartTimeline.gd::GDScript::-1::1698997690::0::1::::<>Node2D<>::
 ::res://Timeline/::1698995505
 WakingUpDialog.dtl::Resource::-1::1698972886::0::1::::<><>::
