@@ -62,3 +62,22 @@ leave Isuzu
 update Sensei (Sensei Delighted) 2
 Sensei (Sensei Delighted Eyes): Alright class. Before I was interrupted, I was saying My name is... 
 Sensei (Sensei Shocked): Oh good heavens!!! I almost forgot, We have a new student who was just transfered to this school. She's from overseas. 
+Sensei (Sensei Delighted Eyes): You can come in now!
+join Infiniti (normal) 3
+update Sensei (Sensei Delighted)
+Classroom: WOOOOOOOOW!!!!
+Infiniti (smile eye): Hello Everyone, My name is Infiniti. I'm the new transfer student.
+Infiniti (smile): I hope I can get along with each and everyone of you.
+Toyota: Imagine how cool it would be if she sat right next to you huh?
+No way in hell would that happen... Good things never happen to me
+Sensei (Sensei Curious): hmm, you there, she will sit next to you alright?
+huh? me? sure. 
+Sensei (Sensei Delighted): Perfect, also, please be sure to give her a tour of the school during lunch break. 
+Yes Sensei...
+leave Infiniti
+update Sensei 2
+Sensei (Sensei Delighted Eyes): Now then, for todays class we will be learning about...
+leave Sensei
+join Infiniti (normal) 1
+Wow. she's really cute...
+Should I say something to her?
