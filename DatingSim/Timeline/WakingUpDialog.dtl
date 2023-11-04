@@ -7,10 +7,10 @@ That woman there is my mum. She's one of a kind. Everyday she would take take ca
 Very grateful to have a mum like her.
 Mum (Mum Smile eye closed): You're gonna be late for your first day of school. Breakfast is ready, get dressed and come downstairs.
 leave Mum
-[background arg="Livingroom_Day.png" fade="0.0"]
-join Ayumi 1
+[background arg="res://Backgrounds/Livingroom_Day.png" fade="0.0"]
+join Ayumi 2
 Ayumi (Ayumi Sleeping): Oh, morning
-join Ayumi 3
+update Ayumi 3
 join Mum 1
 Mum (Mum Smile): Can you believe it, this is the year you finally graduate. After that you will finally be an adult out in the real world.
 Mum (Mum Smile eye closed): I'm so proud of you...
@@ -28,11 +28,37 @@ Sometimes I just wish something strange just happen so that my life would'nt be 
 Despite everything, today is a beautiful day. Spring time, where Sakura trees blossom. A little chilly but great weather.
 Toyota (Toyota Smile): Well look who it is.
 huh?
-join Toyota (Toyota Smile Teeth) 1
-That guy over there is Toyota, We've been bestfriends ever since we were kids. 
-He's always been there for me when I needed help. 
+join Toyota (Toyota Smile Teeth) 2
+That guy over there is Toyota, We've been bestfriends ever since we were kids.
+He's always been there for me when I needed help.
 Toyota (Toyota Smile Teeth): I haven't heard from you ever since the school break started.
 Toyota (Toyota Smile): What's new with you? Did anything interesting?
 No sadly... Nothing worth mentioning.
 Toyota (Toyota Idle): I see, well...
-<Empty Text Event>
+Isuzu: OI!!!
+update Toyota (Toyota Shocked)
+Toyota (Toyota Shocked): !?
+!?
+update Toyota (Toyota Shocked) 3
+join Isuzu (Isuzu Angry) 1
+Isuzu (Isuzu Angry): Why are you two just standing there?! Class Starts in 5 minutes!!!
+Toyota (Toyota Shocked): Oh Isuzu, Sorry we almost forgot, come on we need to hurry.
+leave Toyota
+leave Isuzu
+[background arg="res://Backgrounds/Classroom_Day.png" fade="0.0"]
+join Sensei (Sensei Delighted) 2
+Sensei (Sensei Delighted Eyes): Alright Class, I will be your Sensei for this year, my name is...
+update Sensei (Sensei Idle) 1
+join Toyota 2
+join Isuzu 3
+WE MADE IT!!!
+Toyota (Toyota Smile Teeth): I told you we would.
+Isuzu (Isuzu Annoyed): ...
+Sensei (Sensei Smile): Congratulations you three, You're late on your first day...
+Toyota (Toyota Worried): Sensei, We're sorry, My alarm didn't ring when it was suppose too and then on the way here we encountered each other while walking through...
+Sensei (Sensei Smug): uh, sure... Please be seated.
+leave Toyota
+leave Isuzu
+update Sensei (Sensei Delighted) 2
+Sensei (Sensei Delighted Eyes): Alright class. Before I was interrupted, I was saying My name is... 
+Sensei (Sensei Shocked): Oh good heavens!!! I almost forgot, We have a new student who was just transfered to this school. She's from overseas. 

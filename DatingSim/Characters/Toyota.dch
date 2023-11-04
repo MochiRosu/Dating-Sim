@@ -53,6 +53,16 @@
 "offset": Vector2(0, 0),
 "scale": 1,
 "scene": ""
+},
+"Toyota Worried": {
+"export_overrides": {
+"image": "\"res://Characters/Toyota Worried.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
 }
 },
 "scale": 1.0

@@ -1,0 +1,179 @@
+{
+"@path": "res://addons/dialogic/Resources/character.gd",
+"@subpath": NodePath(""),
+"color": Color(0.988235, 0, 0.968627, 1),
+"custom_info": {
+"sound_mood_default": "",
+"sound_moods": {},
+"style": ""
+},
+"default_portrait": "Infiniti annoyed",
+"description": "",
+"display_name": "Infiniti",
+"mirror": false,
+"nicknames": [""],
+"offset": Vector2(0, 0),
+"portraits": {
+"Angry": {
+"export_overrides": {
+"image": "\"res://Characters/Infiniti Angry.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Angry mouth": {
+"export_overrides": {
+"image": "\"res://Characters/Infiniti Angry mouth.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Infiniti annoyed": {
+"export_overrides": {
+"image": "\"res://Characters/Infiniti  Annoyed.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Sleepy": {
+"export_overrides": {
+"image": "\"res://Characters/Infiniti  sleepy.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"crying": {
+"export_overrides": {
+"image": "\"res://Characters/Infiniti Crying.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"delighted": {
+"export_overrides": {
+"image": "\"res://Characters/Infiniti Delighted.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"delighted eye": {
+"export_overrides": {
+"image": "\"res://Characters/Infiniti Delighted eyes.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"normal": {
+"export_overrides": {
+"image": "\"res://Characters/Infiniti normal.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"o": {
+"export_overrides": {
+"image": "\"res://Characters/Infiniti O.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"sad": {
+"export_overrides": {
+"image": "\"res://Characters/Infiniti Sad.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"shocked": {
+"export_overrides": {
+"image": "\"res://Characters/Infiniti shocked.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"sleepy closed": {
+"export_overrides": {
+"image": "\"res://Characters/Infiniti Sleepy Closed.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"smile": {
+"export_overrides": {
+"image": "\"res://Characters/Infiniti Smile.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"smile eye": {
+"export_overrides": {
+"image": "\"res://Characters/Infiniti Smile eye.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"smug": {
+"export_overrides": {
+"image": "\"res://Characters/Infiniti Smug.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"smug closed": {
+"export_overrides": {
+"image": "\"res://Characters/Infiniti Smug closed.png\""
+},
+"image": "",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+}
+},
+"scale": 1.0
+}
