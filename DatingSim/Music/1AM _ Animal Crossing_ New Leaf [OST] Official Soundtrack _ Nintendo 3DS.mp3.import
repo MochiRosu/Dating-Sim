@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://7fn41bwh60jt"
+path="res://.godot/imported/1AM _ Animal Crossing_ New Leaf [OST] Official Soundtrack _ Nintendo 3DS.mp3-966d29cddb70787051f8bea7eede0ddf.mp3str"
+
+[deps]
+
+source_file="res://Music/1AM _ Animal Crossing_ New Leaf [OST] Official Soundtrack _ Nintendo 3DS.mp3"
+dest_files=["res://.godot/imported/1AM _ Animal Crossing_ New Leaf [OST] Official Soundtrack _ Nintendo 3DS.mp3-966d29cddb70787051f8bea7eede0ddf.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

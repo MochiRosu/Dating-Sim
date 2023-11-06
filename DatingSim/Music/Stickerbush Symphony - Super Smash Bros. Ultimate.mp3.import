@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://5vf0bn8ajxvn"
+path="res://.godot/imported/Stickerbush Symphony - Super Smash Bros. Ultimate.mp3-43ded562c3ab5d5cc54b77be236d9330.mp3str"
+
+[deps]
+
+source_file="res://Music/Stickerbush Symphony - Super Smash Bros. Ultimate.mp3"
+dest_files=["res://.godot/imported/Stickerbush Symphony - Super Smash Bros. Ultimate.mp3-43ded562c3ab5d5cc54b77be236d9330.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

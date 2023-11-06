@@ -28,6 +28,8 @@ You: Sometimes I just wish something strange just happen so that my life would'n
 [background arg="res://Backgrounds/Street_Spring_Day.png" fade="0.0"]
 You: Despite everything, today is a beautiful day. Spring time, where Sakura trees blossom. A little chilly but great weather.
 Toyota (Toyota Smile): Well look who it is.
+[music fade="0.0" volume="0.0"]
+[music path="res://Music/Ape Escape Soundtrack - 16 - Oceana ~ Crabby Beach.mp3" fade="0.0" volume="0.0"]
 You: huh?
 join Toyota (Toyota Smile Teeth) 2
 You: That guy over there is Toyota, We've been bestfriends ever since we were kids.
@@ -36,7 +38,6 @@ Toyota (Toyota Smile Teeth): I haven't heard from you ever since the school brea
 Toyota (Toyota Smile): What's new with you? Did anything interesting?
 You: No sadly... Nothing worth mentioning.
 Toyota (Toyota Idle): I see, well...
-[sound path="res://Music/Ape Escape Soundtrack - 16 - Oceana ~ Crabby Beach.mp3" volume="0.0"]
 Isuzu: OI!!!
 update Toyota (Toyota Shocked)
 Toyota (Toyota Shocked): !?
@@ -48,6 +49,7 @@ Toyota (Toyota Shocked): Oh Isuzu, Sorry we almost forgot, come on we need to hu
 leave Toyota
 leave Isuzu
 [background arg="res://Backgrounds/Classroom_Day.png" fade="0.0"]
+[music path="res://Music/Earth [HD] _ Super Smash Bros. Ultimate ost..mp3" fade="0.0" volume="0.0"]
 join Sensei (Sensei Delighted) 2
 Sensei (Sensei Delighted Eyes): Alright Class, I will be your Sensei for this year, my name is...
 update Sensei (Sensei Idle) 1
@@ -63,6 +65,8 @@ leave Toyota
 leave Isuzu
 update Sensei (Sensei Delighted) 2
 Sensei (Sensei Delighted Eyes): Alright class. Before I was interrupted, I was saying My name is...
+[music fade="0.0" volume="0.0"]
+[music path="res://Music/Oto Melody-Mikako Takahashi [Music Box] (Anime _Onegai My Melody_ OP).mp3" fade="0.0" volume="0.0"]
 Sensei (Sensei Shocked): Oh good heavens!!! I almost forgot, We have a new student who was just transfered to this school. She's from overseas.
 Sensei (Sensei Delighted Eyes): You can come in now!
 join Infiniti (normal) 3
@@ -72,11 +76,13 @@ Infiniti (smile eye): Hello Everyone, My name is Infiniti. I'm the new transfer 
 Infiniti (smile): I hope I can get along with each and everyone of you.
 Toyota: Imagine how cool it would be if she sat right next to you huh?
 You: No way in hell would that happen... Good things never happen to me
-Sensei (Sensei Curious): hmm, you there, she will sit next to you alright?
+Sensei (Sensei Curious): hmm, You, she will sit next to you alright?
 You: huh? me?
 Sensei (Sensei Delighted): Yes You, also, please be sure to give her a tour of the school during lunch break.
 You: Yes Sensei...
 leave Infiniti
+[music fade="0.0" volume="0.0"]
+[music path="res://Music/1AM _ Animal Crossing_ New Leaf [OST] Official Soundtrack _ Nintendo 3DS.mp3" fade="0.0" volume="0.0"]
 update Sensei 2
 Sensei (Sensei Delighted Eyes): Now then, for todays class we will be learning about...
 leave Sensei
@@ -97,6 +103,7 @@ You: Should I say something to her?
 - Wait class is ends
 	You: ...
 	You: Maybe I should wait, don't wanna get her in trouble on her first day here.
-	You: Also don't wanna embarass myself on the first day... 
+	You: Also don't wanna embarass myself on the first day...
 	update Infiniti (delighted)
-	You (smile): wow, she's smiling at me. Alright, this is a sign that I need to say something. 
+	You (smile): wow, she's smiling at me. Alright, this is a sign that I need to say something.
+[music fade="0.0" volume="0.0"]
