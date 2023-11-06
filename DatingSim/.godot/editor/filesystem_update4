@@ -1,9 +1,4 @@
 res://Timeline/WakingUpDialog.dtl
 res://Scenes/MainGameScene.tscn
-res://Characters/Sensei.dch
-res://Characters/Toyota.dch
-res://Characters/Infiniti.dch
-res://Characters/Isuzu.dch
-res://Characters/Mum.dch
-res://Characters/Ayumi.dch
 res://Characters/Classroom.dch
+res://Characters/You.dch

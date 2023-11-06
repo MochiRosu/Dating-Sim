@@ -1,10 +1,11 @@
+[music path="res://Music/Animal Crossing_ New Leaf - 1 PM - OST.mp3" fade="0.0" volume="-5.0"]
 [background arg="res://Backgrounds/Backstreet_Spring_Day.png" fade="0.0"]
 Mum: Dear
 Mum: Dear, It's time to wake up.
 [background arg="res://Backgrounds/Bedroom_Day.png" fade="0.0"]
 join Mum (Mum Smile) 2
-That woman there is my mum. She's one of a kind. Everyday she would take take care of me and my sister by feeding us, doing the laundry and tidying up the house.
-Very grateful to have a mum like her.
+You: That woman there is my mum. She's one of a kind. Everyday she would take take care of me and my sister by feeding us, doing the laundry and tidying up the house.
+You: Very grateful to have a mum like her.
 Mum (Mum Smile eye closed): You're gonna be late for your first day of school. Breakfast is ready, get dressed and come downstairs.
 leave Mum
 [background arg="res://Backgrounds/Livingroom_Day.png" fade="0.0"]
@@ -16,29 +17,30 @@ Mum (Mum Smile): Can you believe it, this is the year you finally graduate. Afte
 Mum (Mum Smile eye closed): I'm so proud of you...
 Ayumi (Ayumi Shocked): THAT'S RIGHT!!! One more year and you're free.
 Ayumi (Ayumi Smile): Have you thought about what you're going to do after you graduate?
-Haven't really thought about it yet. Hopefully I'll think of something soon. Don't wanna leave things last minute.
+You: Haven't really thought about it yet. Hopefully I'll think of something soon. Don't wanna leave things last minute.
 Mum (Mum Smile): Whatever it is, be sure it's something you enjoy doing everyday. Your future depends on it.
 leave Mum
 leave Ayumi
 [background arg="res://Backgrounds/Backstreet_Spring_Day.png" fade="4.0"]
-One more year huh? Time flies so quickly. Turning 18 this year, still single.
-Haven't even had my first kiss yet...
-Sometimes I just wish something strange just happen so that my life would'nt be so boring all the time.
+You: One more year huh? Time flies so quickly. Turning 18 this year, still single.
+You: Haven't even had my first kiss yet...
+You: Sometimes I just wish something strange just happen so that my life would'nt be so boring all the time.
 [background arg="res://Backgrounds/Street_Spring_Day.png" fade="0.0"]
-Despite everything, today is a beautiful day. Spring time, where Sakura trees blossom. A little chilly but great weather.
+You: Despite everything, today is a beautiful day. Spring time, where Sakura trees blossom. A little chilly but great weather.
 Toyota (Toyota Smile): Well look who it is.
-huh?
+You: huh?
 join Toyota (Toyota Smile Teeth) 2
-That guy over there is Toyota, We've been bestfriends ever since we were kids.
-He's always been there for me when I needed help.
+You: That guy over there is Toyota, We've been bestfriends ever since we were kids.
+You: He's always been there for me when I needed help.
 Toyota (Toyota Smile Teeth): I haven't heard from you ever since the school break started.
 Toyota (Toyota Smile): What's new with you? Did anything interesting?
-No sadly... Nothing worth mentioning.
+You: No sadly... Nothing worth mentioning.
 Toyota (Toyota Idle): I see, well...
+[sound path="res://Music/Ape Escape Soundtrack - 16 - Oceana ~ Crabby Beach.mp3" volume="0.0"]
 Isuzu: OI!!!
 update Toyota (Toyota Shocked)
 Toyota (Toyota Shocked): !?
-!?
+You: !?
 update Toyota (Toyota Shocked) 3
 join Isuzu (Isuzu Angry) 1
 Isuzu (Isuzu Angry): Why are you two just standing there?! Class Starts in 5 minutes!!!
@@ -51,7 +53,7 @@ Sensei (Sensei Delighted Eyes): Alright Class, I will be your Sensei for this ye
 update Sensei (Sensei Idle) 1
 join Toyota 2
 join Isuzu 3
-WE MADE IT!!!
+You: WE MADE IT!!!
 Toyota (Toyota Smile Teeth): I told you we would.
 Isuzu (Isuzu Annoyed): ...
 Sensei (Sensei Smile): Congratulations you three, You're late on your first day...
@@ -60,24 +62,41 @@ Sensei (Sensei Smug): uh, sure... Please be seated.
 leave Toyota
 leave Isuzu
 update Sensei (Sensei Delighted) 2
-Sensei (Sensei Delighted Eyes): Alright class. Before I was interrupted, I was saying My name is... 
-Sensei (Sensei Shocked): Oh good heavens!!! I almost forgot, We have a new student who was just transfered to this school. She's from overseas. 
+Sensei (Sensei Delighted Eyes): Alright class. Before I was interrupted, I was saying My name is...
+Sensei (Sensei Shocked): Oh good heavens!!! I almost forgot, We have a new student who was just transfered to this school. She's from overseas.
 Sensei (Sensei Delighted Eyes): You can come in now!
 join Infiniti (normal) 3
-update Sensei (Sensei Delighted)
+update Sensei (Sensei Delighted) 1
 Classroom: WOOOOOOOOW!!!!
 Infiniti (smile eye): Hello Everyone, My name is Infiniti. I'm the new transfer student.
 Infiniti (smile): I hope I can get along with each and everyone of you.
 Toyota: Imagine how cool it would be if she sat right next to you huh?
-No way in hell would that happen... Good things never happen to me
+You: No way in hell would that happen... Good things never happen to me
 Sensei (Sensei Curious): hmm, you there, she will sit next to you alright?
-huh? me? sure. 
-Sensei (Sensei Delighted): Perfect, also, please be sure to give her a tour of the school during lunch break. 
-Yes Sensei...
+You: huh? me?
+Sensei (Sensei Delighted): Yes You, also, please be sure to give her a tour of the school during lunch break.
+You: Yes Sensei...
 leave Infiniti
 update Sensei 2
 Sensei (Sensei Delighted Eyes): Now then, for todays class we will be learning about...
 leave Sensei
-join Infiniti (normal) 1
-Wow. she's really cute...
-Should I say something to her?
+join Infiniti (normal) 2
+You: Wow. she's really cute...
+You: Should I say something to her?
+- Yes
+	erm, excuse me. It's nice to meet you, Infiniti was it?
+	update Infiniti (o)
+	Infiniti (delighted): I...
+	join Sensei (Sensei Smug) 1
+	update Infiniti (sad)
+	Sensei (Sensei Smug Eyes): Hey You, I know you are excited to meet the new student but it's learning time now. Perhaps you would like to stand in the hall?
+	You: NO SENSEI PLEASE. I'M SORRY.
+	update Infiniti (delighted)
+	You notice Infiniti laughing subtly...
+	You: (This might be a good sign)
+- Wait class is ends
+	You: ...
+	You: Maybe I should wait, don't wanna get her in trouble on her first day here.
+	You: Also don't wanna embarass myself on the first day... 
+	update Infiniti (delighted)
+	You (smile): wow, she's smiling at me. Alright, this is a sign that I need to say something. 
