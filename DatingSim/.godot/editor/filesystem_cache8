@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1699281697
+::res://::1699520220
 icon.svg::CompressedTexture2D::6279457431433488348::1698896172::1698896177::1::::<><>::
 ::res://addons/::1698896224
 ::res://addons/dialogic/::1698896234
@@ -603,13 +603,13 @@ Train_Night.png::CompressedTexture2D::4449549906821645972::1698896451::169889871
 Train_Night_Rain.png::CompressedTexture2D::9183799412512629258::1698896451::1698898716::1::::<><>::
 Train_Transparent.png::CompressedTexture2D::2681107869955795092::1698896451::1698898717::1::::<><>::
 Train_Tunnel.png::CompressedTexture2D::5960710685506839041::1698896451::1698898716::1::::<><>::
-::res://Characters/::1699280716
+::res://Characters/::1699409650
 Ayumi Happy.png::CompressedTexture2D::3853719109703520511::1698926250::1698986785::1::::<><>::
 Ayumi Shocked.png::CompressedTexture2D::8154896530717426302::1698926250::1698986785::1::::<><>::
 Ayumi Sleepy.png::CompressedTexture2D::2885631636402423006::1698928108::1698986785::1::::<><>::
 Ayumi Smile.png::CompressedTexture2D::1504612127634640582::1698928206::1698986785::1::::<><>::
-Ayumi.dch::Resource::-1::1699099011::0::1::::<><>::
-Classroom.dch::Resource::-1::1699256677::0::1::::<><>::
+Ayumi.dch::Resource::-1::1699409644::0::1::::<><>::
+Classroom.dch::Resource::-1::1699409645::0::1::::<><>::
 Infiniti  Annoyed.png::CompressedTexture2D::2796029110667388752::1699098709::1699098710::1::::<><>::
 Infiniti  sleepy.png::CompressedTexture2D::5322126456532887257::1699098709::1699098710::1::::<><>::
 Infiniti Angry mouth.png::CompressedTexture2D::4112022363959794702::1699098709::1699098710::1::::<><>::
@@ -626,7 +626,7 @@ Infiniti Smile eye.png::CompressedTexture2D::6606706271660393902::1699098709::16
 Infiniti Smile.png::CompressedTexture2D::3175794542969527166::1699098709::1699098710::1::::<><>::
 Infiniti Smug closed.png::CompressedTexture2D::4742090414219403998::1699098709::1699098710::1::::<><>::
 Infiniti Smug.png::CompressedTexture2D::3826489150538843346::1699098709::1699098710::1::::<><>::
-Infiniti.dch::Resource::-1::1699102957::0::1::::<><>::
+Infiniti.dch::Resource::-1::1699409646::0::1::::<><>::
 Isuzu Angry mouth.png::CompressedTexture2D::8859132623144896104::1699078956::1699078976::1::::<><>::
 Isuzu Annoyed.png::CompressedTexture2D::7676481239786454244::1699078956::1699078976::1::::<><>::
 Isuzu Delighted.png::CompressedTexture2D::6285299820470566064::1699078956::1699078976::1::::<><>::
@@ -637,11 +637,11 @@ Isuzu Shocked.png::CompressedTexture2D::5277251413590552793::1699078956::1699078
 Isuzu Sleepy.png::CompressedTexture2D::1671512122705487146::1699078956::1699078975::1::::<><>::
 Isuzu Smile Closed.png::CompressedTexture2D::6908954613184541122::1699078956::1699078975::1::::<><>::
 Isuzu Smug.png::CompressedTexture2D::741416658700567607::1699078956::1699078975::1::::<><>::
-Isuzu.dch::Resource::-1::1699099012::0::1::::<><>::
+Isuzu.dch::Resource::-1::1699409646::0::1::::<><>::
 Mum Angry.png::CompressedTexture2D::5972554244423790899::1698898407::1698986786::1::::<><>::
 Mum Smile Closed eye.png::CompressedTexture2D::1275064716910127210::1698920654::1698986786::1::::<><>::
 Mum Smile.png::CompressedTexture2D::6373677809628223607::1698897808::1698986786::1::::<><>::
-Mum.dch::Resource::-1::1699099014::0::1::::<><>::
+Mum.dch::Resource::-1::1699409650::0::1::::<><>::
 Sensei Angry 2.png::CompressedTexture2D::832736511871540560::1699078956::1699078975::1::::<><>::
 Sensei Angry.png::CompressedTexture2D::2954973257045373223::1699078956::1699078975::1::::<><>::
 Sensei Annoyed.png::CompressedTexture2D::7064215631822625419::1699078956::1699078975::1::::<><>::
@@ -663,8 +663,8 @@ Toyota Smile Teeth.png::CompressedTexture2D::4900315129601247263::1698976144::16
 Toyota Worried.png::CompressedTexture2D::5081656744281496149::1699089388::1699089388::1::::<><>::
 Toyota.dch::Resource::-1::1699099009::0::1::::<><>::
 Toyota.png::CompressedTexture2D::7900020918385499872::1698974932::1698986785::1::::<><>::
-You.dch::Resource::-1::1699256711::0::1::::<><>::
-::res://Music/::1699284259
+You.dch::Resource::-1::1699409643::0::1::::<><>::
+::res://Music/::1699284260
 1AM _ Animal Crossing_ New Leaf [OST] Official Soundtrack _ Nintendo 3DS.mp3::AudioStreamMP3::2257207362278630673::1699284259::1699284260::1::::<><>::
 Animal Crossing_ New Leaf - 1 PM - OST.mp3::AudioStreamMP3::7988539518379685092::1699255514::1699255515::1::::<><>::
 Ape Escape Soundtrack - 16 - Oceana ~ Crabby Beach.mp3::AudioStreamMP3::6374792396934527381::1699256125::1699256125::1::::<><>::
@@ -672,10 +672,10 @@ Earth [HD] _ Super Smash Bros. Ultimate ost..mp3::AudioStreamMP3::39086229333216
 Mou Sukoshi Dake-YOASOBI [Music Box].mp3::AudioStreamMP3::2471500625793525775::1699255633::1699255633::1::::<><>::
 Oto Melody-Mikako Takahashi [Music Box] (Anime _Onegai My Melody_ OP).mp3::AudioStreamMP3::7781453660114702846::1699255633::1699255633::1::::<><>::
 Stickerbush Symphony - Super Smash Bros. Ultimate.mp3::AudioStreamMP3::2149365545893239131::1699280707::1699280716::1::::<><>::
-::res://Scenes/::1699279569
-MainGameScene.tscn::PackedScene::8995543454867500035::1699279569::0::1::::<><>::res://Scripts/StartTimeline.gd
+::res://Scenes/::1699420756
+MainGameScene.tscn::PackedScene::8995543454867500035::1699420756::0::1::::<><>::res://Scripts/StartTimeline.gd
 MorningHouseScene.tscn::PackedScene::1679118399032229840::1698996379::0::1::::<><>::
 ::res://Scripts/::1698997690
 StartTimeline.gd::GDScript::-1::1698997690::0::1::::<>Node2D<>::
-::res://Timeline/::1699279569
-WakingUpDialog.dtl::Resource::-1::1699279569::0::1::::<><>::
+::res://Timeline/::1699284363
+WakingUpDialog.dtl::Resource::-1::1699284363::0::1::::<><>::

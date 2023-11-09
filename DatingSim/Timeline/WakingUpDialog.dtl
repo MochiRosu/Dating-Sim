@@ -106,4 +106,21 @@ You: Should I say something to her?
 	You: Also don't wanna embarass myself on the first day...
 	update Infiniti (delighted)
 	You (smile): wow, she's smiling at me. Alright, this is a sign that I need to say something.
-[music fade="0.0" volume="0.0"]
+[music path="res://Music/Animal Crossing_ New Leaf - 1 PM - OST.mp3" fade="0.0" volume="-5.0"]
+Infiniti (smile eye): Hey You. I know you were forced into showing me around the school but either way, I really appreciate it.
+You: Oh yea, don't worry about it.
+You: (Where should I take her first after class?)
+- Cafeteria
+	leave Infiniti
+	[background arg="res://Backgrounds/Cafeteria_Day.png" fade="0.0"]
+	join Infiniti (o) 2
+	You: Sorry Infiniti, as this is a prototype we are not able to explore the Cafeteria yet, perhaps in a future update the Cafeteria will be available for us to view
+	Infiniti (sad): Ah I see. Hopefully the Player enjoyed is available so far.
+	Thanks for playing
+- Quad
+	leave Infiniti
+	[background arg="res://Backgrounds/School_Hallway_Day.png" fade="0.0"]
+	join Infiniti (o) 2
+	You: Sorry Infiniti, as this is a prototype we are not able to explore the Quad yet, perhaps in a future update the Cafeteria will be available for us to view
+	Infiniti (sad): Ah I see. Hopefully the Player enjoyed is available so far.
+	Thanks for Playing.
